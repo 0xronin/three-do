@@ -5,8 +5,8 @@
 
 </br>
 
-:sparkle: Only the Approver can withdraw the Eth amount back to you. </br>
-:o: On failure the Amount gets transferred to Approver's Wallet.
+### :sparkle: Only the Approver can withdraw the Eth amount back to you. </br>
+### :o: On failure the Amount gets transferred to Approver's Wallet.
 
 </br>
 
