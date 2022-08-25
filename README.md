@@ -1,7 +1,7 @@
 # :memo: Three-Do (Web3 ToDo)
 ### 1. Create A To-Do 
 ### 2. Commit Eth to your Task
-### 3. Set 3️⃣: Approvers  
+### 3. Set 3️⃣ Approvers  
 
 </br>
 
